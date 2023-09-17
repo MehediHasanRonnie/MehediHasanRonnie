@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MehediHasan
 - 👀 I’m web application Developer
-- 🌱 I’m currently mastering my Reactjs,Nextjs 13.4 with tsilwind css.
+- 🌱 I’m currently mastering my Reactjs,Nextjs 13.4 with tailwind css.
 - 📫 How to reach me ... E-mail:mhrmehedi18@gmail.com
 - 📫 Phone Number: 01718295482
 
