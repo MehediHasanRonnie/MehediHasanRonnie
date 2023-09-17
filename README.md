@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MehediHasan
-- 👀 I’m interested in web devoloping
-- 🌱 I’m currently learning node.js,express.js,mongoDB
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m web application Developer
+- 🌱 I’m currently mastering my Reactjs,Nextjs 13.4 with tsilwind css.
 - 📫 How to reach me ... E-mail:mhrmehedi18@gmail.com
 - 📫 Phone Number: 01718295482
 
